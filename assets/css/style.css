@@ -2,7 +2,9 @@ body {
     background: url("../images/background.png");
     font-family: sans-serif;
 }
-
+.nav-item:hover {
+    text-decoration: underline grey;
+}
 .one {
     background: url(https://raw.githubusercontent.com/ayndecastro/responsive-portfolio/master/assets/images/hangman.jpg);
 }
