@@ -1,0 +1,44 @@
+body {
+    background: url("../images/background.png");
+    font-family: sans-serif;
+}
+
+.one {
+    background: url(https://raw.githubusercontent.com/ayndecastro/responsive-portfolio/master/assets/images/hangman.jpg);
+}
+.two {
+    background:url(https://raw.githubusercontent.com/ayndecastro/responsive-portfolio/master/assets/images/rpg-games.jpg);
+}
+.three {
+    background:url(https://raw.githubusercontent.com/ayndecastro/responsive-portfolio/master/assets/images/sports.jpg);
+}
+.four {
+    background:url(https://raw.githubusercontent.com/ayndecastro/responsive-portfolio/master/assets/images/rock-band.jpg);
+}
+.five {
+    background:url(https://raw.githubusercontent.com/ayndecastro/responsive-portfolio/master/assets/images/cars.jpg);
+}
+.imgHolder {
+    width: 250px;
+    height: 250px;
+    
+}
+p {
+    font-size: 16px;
+    line-height: .3in;
+}
+.main {
+    box-sizing: border-box;
+    max-width: 960px;
+    background: #FFFAFF;
+    min-height: 500px;
+}
+
+.rtoggle {
+    height: 61px;
+}
+
+span{
+    width: 250px;
+    height:40px;
+}
