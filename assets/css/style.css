@@ -6,19 +6,19 @@ body {
     text-decoration: underline grey;
 }
 .one {
-    background: url(https://raw.githubusercontent.com/ayndecastro/responsive-portfolio/master/assets/images/hangman.jpg);
+    background: url(../images/hangman.jpg);
 }
 .two {
-    background:url(https://raw.githubusercontent.com/ayndecastro/responsive-portfolio/master/assets/images/rpg-games.jpg);
+    background:url(../images/rpg-games.jpg);
 }
 .three {
-    background:url(https://raw.githubusercontent.com/ayndecastro/responsive-portfolio/master/assets/images/sports.jpg);
+    background:url(../images/sports.jpg);
 }
 .four {
-    background:url(https://raw.githubusercontent.com/ayndecastro/responsive-portfolio/master/assets/images/rock-band.jpg);
+    background:url(../images/rps.png);
 }
 .five {
-    background:url(https://raw.githubusercontent.com/ayndecastro/responsive-portfolio/master/assets/images/cars.jpg);
+    background:url(../images/cars.jpg);
 }
 .imgHolder {
     width: 250px;
